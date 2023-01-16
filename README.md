@@ -4,7 +4,9 @@
 
 Today I'm enthralled by web development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=transparent&title_color=fd4a59&text_color=65708c&icon_color=feb54b)
+<div>
+<img src="https://user-images.githubusercontent.com/120651477/212740518-2a5b20f1-058b-4bcd-934e-851826b53039.gif" width=300px>
+</div>
 
 Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
 
