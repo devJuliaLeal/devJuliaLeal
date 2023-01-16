@@ -2,8 +2,8 @@
 
 
 Estou aprendendo 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adevJuliaLeal&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true)
 
            
           
