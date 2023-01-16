@@ -18,9 +18,8 @@
 </div>
 <br>
 Today I'm enthralled by web and game development.
-<div>  
-<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=140px> 
-</div>
+<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=200px> 
+
 
 Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
 
