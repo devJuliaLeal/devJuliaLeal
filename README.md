@@ -1,9 +1,9 @@
 ### Hi there 👋 Oii! Eu sou a Julia Leal
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=dark)
 
 
 
+[![julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal)](https://github.com/devJuliaLeal/github-readme-stats)
            
           
 
