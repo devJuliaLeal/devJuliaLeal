@@ -1,6 +1,6 @@
 ### Hi there 👋 Oii! Eu sou a Julia Leal
 
-<br>
+
 Estou aprendendo 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=radical)
 
