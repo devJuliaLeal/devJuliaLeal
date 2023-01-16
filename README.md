@@ -1,6 +1,7 @@
 
 
 # Hi there! I'm Julia, a self-taught developer. 
+## A passionate developer from Brazil 
 
 Today I'm enthralled by web development.
 
