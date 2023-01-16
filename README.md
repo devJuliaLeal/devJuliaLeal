@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=radical)
 
- ![Julia's Github Stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![Julia's Github Stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&bg_color=30,e96443,904e95&title_color=fff&text_color=eee)
            
           
 
