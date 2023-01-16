@@ -1,10 +1,9 @@
 
 
 # Hi there! I'm Julia, a self-taught developer. 
-## A passionate developer from Brazil 
-<div>
-<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=150px>
-</div>
+
+## A passionate developer from Brazil <img src="https://user-images.githubusercontent.com/120651477/212745140-44ed4041-ed11-4525-b475-fcb16f35617d.png" width=25px>
+
 Today I'm enthralled by web development.
 
 <div>
@@ -20,17 +19,8 @@ Today I'm enthralled by web development.
 
 Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
 
-
-
-
-
-
-
-
-          
-          
-
-
-
-
 ![snake gif](https://github.com/devJuliaLeal/devJuliaLeal/blob/output/github-contribution-grid-snake.svg)
+
+I 
+
+## Connect with me:
