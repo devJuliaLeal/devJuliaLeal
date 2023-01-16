@@ -3,9 +3,7 @@
 
 
 
-[![julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal)](https://github.com/devJuliaLeal/github-readme-stats)
-           
- ![julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=dark)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=transparent)
 
           
           
