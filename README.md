@@ -1,4 +1,13 @@
-### Hi there 👋 Oii! Eu sou a Julia Leal
+
+
+# Hi there! I'm Julia, a self-taught developer. Today I'm enthralled by web development.
+
+
+
+
+Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
+
+
 
 
 
