@@ -3,7 +3,7 @@
 
 Estou aprendendo 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJuliaLeal)](https:/devJuliaLeal/github.com//github-readme-stats)
            
           
