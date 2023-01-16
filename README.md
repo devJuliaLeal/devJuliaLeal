@@ -1,5 +1,5 @@
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
           
 
 # Hi there! I'm Julia, a self-taught developer. 
@@ -26,7 +26,15 @@ Creating new experiences, implementing eye pleasing designs and making them come
 
 ![snake gif](https://github.com/devJuliaLeal/devJuliaLeal/blob/output/github-contribution-grid-snake.svg)
 
-I 
+## My skills:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width=40px>
+</div>
 
 ## Connect with me:
 
