@@ -1,4 +1,6 @@
 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 # Hi there! I'm Julia, a self-taught developer. 
 
@@ -26,3 +28,5 @@ Creating new experiences, implementing eye pleasing designs and making them come
 I 
 
 ## Connect with me:
+
+
