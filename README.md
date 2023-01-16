@@ -1,6 +1,8 @@
 
 
-# Hi there! I'm Julia, a self-taught developer. Today I'm enthralled by web development.
+# Hi there! I'm Julia, a self-taught developer. 
+
+Today I'm enthralled by web development.
 
 
 
