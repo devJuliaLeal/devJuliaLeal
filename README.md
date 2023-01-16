@@ -19,7 +19,7 @@
 <br>
 Today I'm enthralled by web and game development.
 <div>  
-<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=120px> 
+<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=140px> 
 </div>
 
 Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
@@ -37,5 +37,10 @@ Creating new experiences, implementing eye pleasing designs and making them come
 </div>
 
 ## Connect with me:
+<div>
+<a href="https://www.instagram.com/devjulialeal/"><img src="https://user-images.githubusercontent.com/120651477/212749939-d3cc4df3-7a88-4543-9757-677aa337ac83.png" class="media-object  img-responsive img-thumbnail" width=40px></a>
+ <a href="https://www.linkedin.com/in/julia-assun%C3%A7%C3%A3o-leal-8a9566260/"><img src="https://user-images.githubusercontent.com/120651477/212749938-52e6dcae-a86c-4406-8d21-fc691778543a.png" class="media-object  img-responsive img-thumbnail" width=35px align=top></a>
 
+
+</div>
 
