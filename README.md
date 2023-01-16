@@ -2,7 +2,9 @@
 
 # Hi there! I'm Julia, a self-taught developer. 
 ## A passionate developer from Brazil 
-
+<div>
+<img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=150px>
+</div>
 Today I'm enthralled by web development.
 
 <div>
