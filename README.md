@@ -20,7 +20,7 @@
 Today I'm enthralled by web and game development.
 <div>
 <img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=300px align=middle> 
-<img src="https://user-images.githubusercontent.com/120651477/212783416-aedfb0f3-20b1-43ad-b04c-bc4c92224422.gif" width=170px  align=middle border="20px"> 
+<img src="https://user-images.githubusercontent.com/120651477/212783416-aedfb0f3-20b1-43ad-b04c-bc4c92224422.gif" width=170px  align=middle > 
    
 </div>
 
