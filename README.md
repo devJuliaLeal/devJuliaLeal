@@ -46,3 +46,7 @@ Creating new experiences, implementing eye pleasing designs and making them come
 
 </div>
 
+ <br>
+Thanks for reading
+ <img src= "https://user-images.githubusercontent.com/120651477/212784040-21f490e1-eba5-45d1-9259-dca3ba6cc319.gif" width=200px>
+
