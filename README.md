@@ -1,5 +1,4 @@
-
-          
+![Julia's GitHub stats](https://my-repostiory.vercel.app/api?username=devJuliaLeal&show_icons=true&theme=transparent&title_color=fd4a59&text_color=65708c&icon_color=feb54b)          
           
 
 
