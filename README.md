@@ -16,14 +16,13 @@
 <img src="https://user-images.githubusercontent.com/120651477/212740530-e113665b-f9a3-4601-a129-4fee8528f205.gif" width=90px>
 </div>
 <br>
-Today I'm enthralled by web and game development.
+Today I'm enthralled by machine learning and creating API´s. 
 <div>
 <img src="https://user-images.githubusercontent.com/120651477/212740514-52aac6a5-96aa-466b-bd84-51d5cbcd76cf.gif" width=300px align=middle> 
 <img src="https://user-images.githubusercontent.com/120651477/212783416-aedfb0f3-20b1-43ad-b04c-bc4c92224422.gif" width=170px  align=middle > 
    
 </div>
 
-Creating new experiences, implementing eye pleasing designs and making them come to life with animation is what I do best.
 
 ![snake gif](https://github.com/devJuliaLeal/devJuliaLeal/blob/output/github-contribution-grid-snake.svg)
 
