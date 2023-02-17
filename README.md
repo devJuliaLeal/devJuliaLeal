@@ -3,7 +3,7 @@
 
 # Hi there! I'm Julia, a fullstack developer. 
 
-<div> A passionate front-end developer from Brazil <img src="https://user-images.githubusercontent.com/120651477/212749924-163b59e9-231d-4900-9672-306a732e6b82.png" width=15px aligh=bottom > </div>
+<div> A passionate developer from Brazil <img src="https://user-images.githubusercontent.com/120651477/212749924-163b59e9-231d-4900-9672-306a732e6b82.png" width=15px aligh=bottom > </div>
 <br>
 
 
